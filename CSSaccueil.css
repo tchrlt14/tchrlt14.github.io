@@ -1,0 +1,188 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 nov. 2023, 08:51:44
+    Author     : tom.charlot
+*/
+
+body, html{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    
+}
+h1 {
+    color: white;
+    font-family: Arial;
+    font-size: 50px;
+    margin-left: 400px;
+    
+}
+div{
+    position: absolute;
+    top: 1000px;
+    border: 3px solid white;
+    height: 150px;
+    width: 1100px;
+    color: white;
+    font-family: arial;
+    right: 100px
+
+}
+
+p{
+    position: absolute;
+    top: 200px;
+    font-size: 20px;
+}
+    
+    
+
+
+div#bandeau {
+	width: 1250px;
+	height:200px;
+	background: url(images/Bleu.jpg);
+    top: 0px;
+    left: 25px;
+    
+	}
+div#consoles {
+    width: 506px;
+    border-radius: 10px;
+    height:500px;
+    background: url(images/consoles.jpeg);
+    top: 300px;
+    left: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    }
+
+div#bandeau2 {
+    width: 500px;
+    height:100px;
+    background-color: black;
+    top: 0px;
+    left: 0px;
+    border-color: black;
+    border-radius: 3%;
+    }
+
+a{
+    color: white;
+    font-family: arial;
+    font-size: 50px;
+    
+}
+
+div#personnages {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/personnages.jpeg);
+    top: 300px;
+    right: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+
+div#bandeau3 {
+    width: 500px;
+    height:100px;
+    background-color: black;
+    top: 0px;
+    left: 0px;
+    border-color: black;
+    border-radius: 3%;
+    }
+
+a{
+    color: white;
+    font-family: arial;
+    font-size: 50px;
+    
+}
+
+div#Entreprises {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/marque.jpeg);
+    top: 1000px;
+    right: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    }
+
+div#bandeau4 {
+    width: 500px;
+    height:100px;
+    background-color: black;
+    top: 0px;
+    left: 0px;
+    border-color: black;
+    border-radius: 3%;
+    }
+
+a{
+    color: white;
+    font-family: arial;
+    font-size: 50px;
+    
+}
+
+div#Jeux_vidéo {
+    width: 506px;
+    height:500px;
+    background: url(images/jeuxvideo.jpeg);
+    top: 1000px;
+    left: 20px;
+    border-radius: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    }
+
+div#bandeau5 {
+    width: 500px;
+    height:100px;
+    background-color: black;
+    top: 0px;
+    left: 0px;
+    border-color: black;
+    border-radius: 3%;
+
+    }
+
+a{
+    color: white;
+    font-family: arial;
+    font-size: 50px;
+    
+}
+
+div#bandeauIntro {
+	width: 1250px;
+	height:100px;
+    background-size: 100%;
+    top: 1600px;
+    left: 25px;
+    text-align: center;
+    }
+p#Intro {
+    font-family: arial;
+    position: absolute;
+    top: -22px;
+    left: 500px;
+    font-size:  50px; 
+    
+    }
+
+   

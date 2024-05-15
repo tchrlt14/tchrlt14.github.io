@@ -1,0 +1,195 @@
+body, html{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    
+}
+h1 {
+    color: white;
+    font-family: Arial;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+
+div#bandeauconsoleSega {
+	width: 1250px;
+	height:200px;
+	background: url(images/Bleu.jpg);
+    top: 0px;
+    left: 30px;
+    border: 3px solid white;
+    color: white;
+    right: 25px;
+    position: absolute;
+    
+}
+p#SG{
+    top: 275px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+        
+}
+        
+img#SG{
+    top: 350px;
+    left: 900px;
+    position: absolute;
+            
+}
+
+p#SGII{
+    top: 700px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+        
+}
+            
+img#SGII{
+    top: 725px;
+    left: 900px;
+    position: absolute;
+                
+}
+
+p#mastersystem{
+    top: 1000px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+            
+}
+img#mastersystem{
+    top: 1150px;
+    left: 900px;
+    position: absolute;
+                    
+}
+
+p#megadrive{
+    top: 1500px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+            
+}
+img#megadrive{
+    top: 1650px;
+    left: 900px;
+    position: absolute;
+                    
+}
+
+p#gamegear{
+    top: 2050px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+            
+}
+img#gamegear{
+    top: 2125px;
+    left: 900px;
+    position: absolute;
+                    
+}
+
+p#megacd{
+    top: 2500px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+            
+}
+img#megacd{
+    top: 2650px;
+    left: 900px;
+    position: absolute;
+                    
+}
+
+p#pico{
+    top: 3050px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+            
+}
+img#pico{
+    top: 3150px;
+    left: 900px;
+    position: absolute;
+                    
+}
+
+p#trentedeuxX{
+    top: 3500px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+            
+}
+img#trentedeuxX{
+    top: 3600px;
+    left: 900px;
+    position: absolute;
+}         
+p#saturn{
+    top: 4000px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+            
+}
+img#saturn{
+    top: 4150px;
+    left: 900px;
+    position: absolute;
+}  
+p#dreamcast{
+    top: 4500px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+            
+}
+img#dreamcast{
+    top: 4650px;
+    left: 900px;
+    position: absolute;
+}  
+  
+

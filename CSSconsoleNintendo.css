@@ -1,0 +1,279 @@
+body, html{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    
+}
+h1 {
+    color: white;
+    font-family: Arial;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+div#bandeauconsoleNintendo {
+	width: 1250px;
+	height:200px;
+	background: url(images/Bleu.jpg);
+    top: 0px;
+    left: 30px;
+    border: 3px solid white;
+    color: white;
+    right: 25px;
+    position: absolute;
+    
+	}
+
+p#gameswatch{
+    top: 250px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+
+img#gameswatch{
+    top: 300px;
+    left: 900px;
+    position: absolute;
+    
+}
+
+
+p#nes{
+    top: 600px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+img#nes{
+    top: 650px;
+    left: 900px;
+    position: absolute;
+    
+}
+p#gameboy{
+    top: 950px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+
+img#gameboy{
+    top: 950px;
+    left: 900px;
+    position: absolute;
+    
+}
+
+p#SNES{
+    top: 1300px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+img#SNES{
+    top: 1300px;
+    left: 900px;
+    position: absolute;
+}
+
+p#virtualboy{
+    top: 1650px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+img#virtualboy{
+    top: 1650px;
+    left: 900px;
+    position: absolute;
+}
+
+p#N64{
+    top: 2000px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+img#N64{
+    top: 2050px;
+    left: 900px;
+    position: absolute;
+}
+
+p#gamecube{
+    top: 2400px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+img#gamecube{
+    top: 2450px;
+    left: 900px;
+    position: absolute;
+}
+
+p#DS{
+    top: 2800px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+img#DS{
+    top: 2800px;
+    left: 900px;
+    position: absolute;
+}
+
+p#wii{
+    top: 3200px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+img#wii{
+    top: 3200px;
+    left: 900px;
+    position: absolute;
+}
+
+p#troisDS{
+    top: 3600px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+img#troisDS{
+    top: 3625px;
+    left: 900px;
+    position: absolute;
+}
+p#wiiU{
+    top: 4000px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+img#wiiU{
+    top: 4025px;
+    left: 900px;
+    position: absolute;
+}
+p#newNes{
+    top: 4300px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+img#newNes{
+    top: 4300px;
+    left: 900px;
+    position: absolute;
+}
+p#supernes{
+    top: 4700px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+img#supernes{
+    top: 4725px;
+    left: 900px;
+    position: absolute;
+}
+p#switch{
+    top: 5000px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+img#switch{
+    top: 5100px;
+    left: 900px;
+    position: absolute;
+}
+
+
+p#switchlite{
+    top: 5500px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+img#switchlite{
+    top: 5500px;
+    left: 900px;
+    position: absolute;
+}
+
+p#OLED{
+    top: 5750px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+}
+img#OLED{
+    top: 5750px;
+    left: 900px;
+    position: absolute;
+}

@@ -1,0 +1,113 @@
+body, html{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    
+}
+h1 {
+    color: white;
+    font-family: Arial;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+div#bandeauconsoleXbox {
+	width: 1250px;
+	height:200px;
+	background: url(images/Bleu.jpg);
+    top: 0px;
+    left: 30px;
+    border: 3px solid white;
+    color: white;
+    right: 25px;
+    position: absolute;
+    
+	}
+
+p#firstxbox{
+    top: 250px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+
+img#firstxbox{
+    top: 300px;
+    left: 900px;
+    position: absolute;
+    
+}
+p#xbox360{
+    top: 650px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+
+img#xbox360{
+    top: 750px;
+    left: 900px;
+    position: absolute;
+    
+}
+p#xboxone{
+    top: 1200px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+
+img#xboxone{
+    top: 1350px;
+    left: 900px;
+    position: absolute;
+    
+}
+
+p#xboxseriess{
+    top: 1800px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+img#xboxs{
+    top: 1875px;
+    left: 900px;
+    position: absolute;
+    
+}
+
+p#xboxx{
+    top: 2400px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+img#xboxx{
+    top: 2450px;
+    left: 900px;
+    position: absolute;
+    
+}
+

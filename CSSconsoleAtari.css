@@ -1,0 +1,173 @@
+body, html{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    
+}
+h1 {
+    color: white;
+    font-family: Arial;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+div#bandeauconsoleAtari {
+	width: 1250px;
+	height:200px;
+	background: url(images/Bleu.jpg);
+    top: 0px;
+    left: 30px;
+    border: 3px solid white;
+    color: white;
+    right: 25px;
+    position: absolute;
+    
+	}
+
+p#Ataripong{
+    top: 275px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+    
+img#Ataripong{
+    top: 250px;
+    left: 900px;
+    position: absolute;
+        
+}
+p#VCS{
+    top: 600px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+img#VCS{
+    top: 700px;
+    left: 900px;
+    position: absolute;
+}
+
+p#Ataricinq{
+    top: 1000px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+img#Ataricinq{
+    top: 1100px;
+    left: 900px;
+    position: absolute;
+}
+p#JR{
+    top: 1475px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+
+img#JR{
+    top: 1550px;
+    left: 900px;
+    position: absolute;
+}
+p#atarisept{
+    top: 1900px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+
+img#atarisept{
+    top: 2100px;
+    left: 900px;
+    position: absolute;
+}
+p#XEGS{
+    top: 2450px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+
+img#XEGS{
+    top: 2450px;
+    left: 900px;
+    position: absolute;
+}
+p#Lynx{
+    top: 2700px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+
+img#Lynx{
+    top: 2800px;
+    left: 900px;
+    position: absolute;
+}
+
+p#Lynxdeux{
+    top: 3200px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+
+img#Lynxdeux{
+    top: 3300px;
+    left: 900px;
+    position: absolute;
+}
+p#jaguar{
+    top: 3700px;
+    color: white;   
+    position: absolute;
+    left: 100px;
+    right: 500px;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+
+img#jaguar{
+    top: 3800px;
+    left: 900px;
+    position: absolute;
+}
+
