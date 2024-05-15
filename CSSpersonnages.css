@@ -1,0 +1,538 @@
+body, html{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    
+}
+h1 {
+    color: white;
+    font-family: Arial;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+
+div#bandeaupersonnages {
+	width: 1250px;
+	height:200px;
+	background: url(images/Bleu.jpg);
+    top: 0px;
+    left: 30px;
+    border: 3px solid white;
+    color: white;
+    right: 25px;
+    position: absolute;
+    
+	}
+
+div#Mario {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/mario.jpeg);
+    top: 300px;
+    right: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+
+    
+}
+div#bandeauconsole1 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+    }
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+        
+    }
+
+div#Sonic {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/sonic.jpeg);
+    top: 300px;
+    left: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+    
+        
+    }
+div#bandeauconsole2 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+    }
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+            
+    }
+div#Pikachu {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/pikachu.jpeg);
+    top: 1000px;
+    left: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+        
+            
+    }
+div#bandeauconsole3 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+    }
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                
+    }
+
+div#Megaman {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/megaman.jpeg);
+    top: 1000px;
+    right: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+            
+                
+    }
+div#bandeauconsole4 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+    }
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                    
+    }
+div#Crashbandicoot {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/crashbandicoot.jpeg);
+    top: 1700px;
+    right: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                
+    }
+div#bandeauconsole5 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+    }
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                        
+    }
+div#Gordonfreeman {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/gordonfreeman.jpeg);
+    top: 1700px;
+    left: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole6 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Sora {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/sora.jpeg);
+    top: 2400px;
+    right: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole7 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Cloudstrife {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/cloudstrife.jpeg);
+    top: 2400px;
+    left: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole8 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Geraltderiv {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/geraltderiv.jpeg);
+    top: 3100px;
+    left: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole9 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Pacman {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/pacman.jpeg);
+    top: 3100px;
+    right: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole10{
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Link {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/link.jpeg);
+    top: 3800px;
+    left: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole11 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Masterchief {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/major117.jpeg);
+    top: 3800px;
+    right: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole12{
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Aloy {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/aloy.jpeg);
+    top: 4500px;
+    left: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole13 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Simonbelmont {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/simonbelmont.jpeg);
+    top: 4500px;
+    right: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole14{
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Kratos {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/kratos.jpeg);
+    top: 5200px;
+    left: 20px;
+    border: 3px solid white;
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole15 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Nathandrake {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/nathandrake.jpeg);
+    top: 5200px;
+    right: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole16{
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Laracroft {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/laracroft.jpeg);
+    top: 5900px;
+    left: 20px;
+    border: 3px solid white;
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole17 {
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
+div#Steve {
+    border-radius: 10px;
+    width: 506px;
+    height:500px;
+    background: url(images/steve.jpeg);
+    top: 5900px;
+    right: 20px;
+    border: 3px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: absolute;
+                    
+}
+div#bandeauconsole18{
+    width: 506px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    position: absolute;
+    border-radius: 3%;
+}
+a{
+    color: white;
+    font-family: arial;
+    font-size: 40px;
+                            
+}
