@@ -13,9 +13,9 @@ h1 {
 }
 
 div#pspaceinvaders{
-	width: 1250px;
-	height:200px;
-	background: url(images/Bleu.jpg);
+    width: 1250px;
+    height:200px;
+    background: url(images/Bleu.jpg);
     top: 0px;
     left: 30px;
     border: 3px solid white;
@@ -46,11 +46,11 @@ p#tspaceinvaders{
     left:20px;
 }
 a{
-	top: 300px;
-	width: 500px;
-	height: 500px;
-	position: absolute;
-	right: 1px;
+    top: 500px;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    right: 1px;
 }
 	
     
