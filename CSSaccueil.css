@@ -109,34 +109,7 @@ a{
     
 }
 
-div#Entreprises {
-    border-radius: 10px;
-    width: 506px;
-    height:500px;
-    background: url(images/marque.jpeg);
-    top: 1000px;
-    right: 20px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-    }
 
-div#bandeau4 {
-    width: 500px;
-    height:100px;
-    background-color: black;
-    top: 0px;
-    left: 0px;
-    border-color: black;
-    border-radius: 3%;
-    }
-
-a{
-    color: white;
-    font-family: arial;
-    font-size: 50px;
-    
-}
 
 div#Jeux_vidéo {
     width: 506px;
